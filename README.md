@@ -8,6 +8,7 @@ I'm a frontend-focused web developer building modern web applications with Angul
 - Python / Django
 - HTML / CSS / SCSS
 - Git & GitHub
+- Firebase 
 
 ### 🚀 Featured Projects
 - **Join** – Task management web app
