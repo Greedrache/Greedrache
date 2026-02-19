@@ -4,9 +4,9 @@ I'm a frontend-focused web developer building modern web applications with Angul
 
 ### 🛠 Tech Stack
 - Angular
-- TypeScript
-- JavaScript
-- HTML / CSS
+- TypeScript / JavaScript
+- Python / Django
+- HTML / CSS / SCSS
 - Git & GitHub
 
 ### 🚀 Featured Projects
