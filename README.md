@@ -1,16 +1,47 @@
-## Hi, I'm Tim 👋
-I'm a fullstack web developer building modern web applications with Angular, TypeScript, and Python. Currently expanding my backend expertise with Django and Django REST Framework.
+# Hi, I'm Tim 👋
 
-### 🛠 Tech Stack
+I'm a fullstack web developer building modern web applications with Angular, TypeScript, and Python.
+Currently expanding my backend expertise with Django and Django REST Framework.
 
-Frontend: Angular, TypeScript, JavaScript, HTML, CSS, SCSS
+---
 
-Backend: Python, Django, Django REST Framework
+## 🛠 Tech Stack
 
-Other: Git & GitHub, Firebase
+**Frontend:** Angular · TypeScript · JavaScript · HTML · CSS · SCSS
 
-### 🚀 Featured Projects
+**Backend:** Python · Django · Django REST Framework
 
-**Join** – Task management web app
+**Other:** Git & GitHub · Firebase · Docker · PostgreSQL · Redis
 
-**El Pollo Loco** – Jump & Run browser game
+---
+
+## 🚀 Featured Projects
+
+### [Videoflix](https://github.com/Greedrache/Videoflix) – Netflix-style Video Streaming Platform
+A full-stack video streaming platform with HLS streaming, JWT authentication via HTTPOnly cookies,
+email verification, 2FA, and background video processing via Redis & Django-RQ.
+Deployed with Docker (PostgreSQL + Redis + Django).
+
+🌐 Live at: [tim-thiele.de](https://tim-thiele.de/videoflix)
+
+### [Join](https://github.com/Greedrache/Join) – Task Management Web App
+A Kanban-style task management application with drag-and-drop functionality,
+user authentication, and real-time collaboration features.
+
+### [El Pollo Loco](https://github.com/Greedrache/EL-POLLO-LOCO) – Jump & Run Browser Game
+A 2D side-scrolling browser game built with vanilla JavaScript and object-oriented programming.
+Fight your way through chickens and defeat the final boss!
+
+---
+
+## 📊 GitHub Stats
+
+![Tim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Greedrache&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Greedrache&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 📫 Get in touch
+
+[![GitHub](https://img.shields.io/badge/GitHub-Greedrache-181717?style=flat&logo=github)](https://github.com/Greedrache)
+[![Website](https://img.shields.io/badge/Website-tim--thiele.de-0A66C2?style=flat&logo=google-chrome)](https://tim-thiele.de)
