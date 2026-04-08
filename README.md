@@ -22,7 +22,7 @@ A full-stack video streaming platform with HLS streaming, JWT authentication via
 email verification, 2FA, and background video processing via Redis & Django-RQ.
 Deployed with Docker (PostgreSQL + Redis + Django).
 
-🌐 Live at: [tim-thiele.de](https://tim-thiele.de/videoflix)
+🌐 Live at: [tim-thiele.de](https://tim-thiele.de)
 
 ### [Join](https://github.com/Greedrache/Join) – Task Management Web App
 A Kanban-style task management application with drag-and-drop functionality,
@@ -31,13 +31,6 @@ user authentication, and real-time collaboration features.
 ### [El Pollo Loco](https://github.com/Greedrache/EL-POLLO-LOCO) – Jump & Run Browser Game
 A 2D side-scrolling browser game built with vanilla JavaScript and object-oriented programming.
 Fight your way through chickens and defeat the final boss!
-
----
-
-## 📊 GitHub Stats
-
-![Tim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Greedrache&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Greedrache&layout=compact&theme=dark&hide_border=true)
 
 ---
 
