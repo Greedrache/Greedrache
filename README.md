@@ -22,8 +22,6 @@ A full-stack video streaming platform with HLS streaming, JWT authentication via
 email verification, 2FA, and background video processing via Redis & Django-RQ.
 Deployed with Docker (PostgreSQL + Redis + Django).
 
-🌐 Live at: [tim-thiele.de](https://tim-thiele.de)
-
 ### [Join](https://github.com/Greedrache/Join) – Task Management Web App
 A Kanban-style task management application with drag-and-drop functionality,
 user authentication, and real-time collaboration features.
