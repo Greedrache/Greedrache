@@ -11,7 +11,7 @@ Currently expanding my backend expertise with Django and Django REST Framework.
 
 **Backend:** Python · Django · Django REST Framework
 
-**Other:** Git & GitHub · Firebase · Docker · PostgreSQL · Redis
+**Other:** Git & GitHub · Firebase · Docker · PostgreSQL · Redis · Linux
 
 ---
 
@@ -26,9 +26,9 @@ Deployed with Docker (PostgreSQL + Redis + Django).
 A Kanban-style task management application with drag-and-drop functionality,
 user authentication, and real-time collaboration features.
 
-### [El Pollo Loco](https://github.com/Greedrache/EL-POLLO-LOCO) – Jump & Run Browser Game
+### [Vorgath](https://github.com/Greedrache/vorgath) – 2D Adventure Browser Game
 A 2D side-scrolling browser game built with vanilla JavaScript and object-oriented programming.
-Fight your way through chickens and defeat the final boss!
+Fight your way through rooms and defeat the final boss!
 
 ---
 
