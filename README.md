@@ -36,7 +36,7 @@ The robust backend architecture for a Netflix-style video streaming platform, en
 * **DevOps Ready:** Fully containerized the entire ecosystem (Django, PostgreSQL, Redis) using **Docker** for seamless deployment and scaling.
 
 ### ⚔️ Vorgath – 2D Adventure Browser Game
-> [💻 GitHub Repository](https://github.com/Greedrache/Vorgath)
+> [🔗 Live Demo (Vorgath)](https://tim-thiele.de/vorgath) │ [💻 GitHub Repository](https://github.com/Greedrache/Vorgath)
 
 A classic side-scrolling browser game built from scratch to master advanced software design patterns.
 * **Clean Code:** Engineered entirely with **Object-Oriented Programming (OOP)** in vanilla JavaScript without the help of external game engines.
