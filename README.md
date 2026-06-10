@@ -1,38 +1,50 @@
-# Hi, I'm Tim 👋
+# Hi, I'm Gree! 👋
 
-I'm a fullstack web developer building modern web applications with Angular, TypeScript, and Python.
-Currently expanding my backend expertise with Django and Django REST Framework.
+I'm a **Fullstack Web Developer** passionate about building clean, efficient, and user-centric web applications. I bridge the gap between responsive frontends and scalable backend architectures.
 
 ---
 
 ## 🛠 Tech Stack
 
-**Frontend:** Angular · TypeScript · JavaScript · HTML · CSS · SCSS
+**Frontend**
+`Angular` · `TypeScript` · `JavaScript` · `HTML5` · `CSS3 / SCSS`
 
-**Backend:** Python · Django · Django REST Framework
+**Backend & Logic**
+`Python` · `Django` · `Django REST Framework` · `PHP` · `Django-RQ (Async)`
 
-**Other:** Git & GitHub · Firebase · Docker · PostgreSQL · Redis · Linux
+**Databases & Tools**
+`PostgreSQL` · `Redis` · `Firebase` · `Docker` · `Git & GitHub` · `Linux`
 
 ---
 
 ## 🚀 Featured Projects
 
-### [Videoflix](https://github.com/Greedrache/Videoflix) – Netflix-style Video Streaming Platform
-A full-stack video streaming platform with HLS streaming, JWT authentication via HTTPOnly cookies,
-email verification, 2FA, and background video processing via Redis & Django-RQ.
-Deployed with Docker (PostgreSQL + Redis + Django).
+### 👑 MVP – Political Platform
+> **Live Project:** [mvp-politik.de](https://mvp-politik.de) | **Repository:** [Greedrache/MVP](https://github.com/Greedrache/MVP)
 
-### [Join](https://github.com/Greedrache/Join) – Task Management Web App
-A Kanban-style task management application with drag-and-drop functionality,
-user authentication, and real-time collaboration features.
+The official web platform for a real-world political initiative focused on transparency and direct participation.
+* **Production Ready:** Designed a lightweight, high-performance multipage platform engineered for fast loading times and maximum uptime.
+* **Core Features:** Built an interactive FAQ system, dynamic forms, automated document delivery (PDFs), and legal compliance integrations.
+* **Stack:** Pure HTML, CSS, Vanilla JavaScript, and PHP for lightweight server-side operations.
 
-### [Vorgath](https://github.com/Greedrache/vorgath) – 2D Adventure Browser Game
-A 2D side-scrolling browser game built with vanilla JavaScript and object-oriented programming.
-Fight your way through rooms and defeat the final boss!
+### 🎬 Videoflix – Video Streaming Platform
+A full-stack, Netflix-inspired streaming platform engineered for performance and advanced security.
+* **Architecture:** Containerized with **Docker**, leveraging **Redis** & **Django-RQ** for heavy background tasks and automated video processing.
+* **Video Tech:** Seamless **HLS (HTTP Live Streaming)** integration to ensure adaptive, buffer-free video playback.
+* **Security:** Hardened authentication flow using `HTTPOnly` cookies (JWT), automated email verification, and Two-Factor Authentication (2FA).
+* **Stack:** Angular, TypeScript, Python, Django REST Framework, PostgreSQL, Redis, Docker.
+
+### ⚔️ Vorgath – 2D Adventure Browser Game
+A classic side-scrolling browser game built to master advanced software design patterns.
+* **Clean Code:** Engineered entirely with **Object-Oriented Programming (OOP)** in vanilla JavaScript without external game engines.
+* **Mechanics:** Implemented custom state management for entity behaviors and precise collision detection algorithms.
+* **Stack:** JavaScript (ES6+), HTML5 Canvas, CSS3.
 
 ---
 
-## 📫 Get in touch
+## 📫 Let's Connect!
 
-[![GitHub](https://img.shields.io/badge/GitHub-Greedrache-181717?style=flat&logo=github)](https://github.com/Greedrache)
-[![Website](https://img.shields.io/badge/Website-tim--thiele.de-0A66C2?style=flat&logo=google-chrome)](https://tim-thiele.de)
+I'm always open to talking about web development, clean code, or interesting projects.
+
+* **Website:** [tim-thiele.de](https://tim-thiele.de)
+* **LinkedIn:** [Connect with me](https://www.linkedin.com/in/tim-thiele-390aa92aa/?skipRedirect=true)
